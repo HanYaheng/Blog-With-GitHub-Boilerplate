@@ -26,13 +26,13 @@ author = "暮二"
 email = "yaheng233@gmail.com"
 author_homepage = "https://www.imalan.cn"
 description = " 何不洒脱做自己 "
-key_words = ['Maverick', '暮二', 'Galileo', 'blog']
+key_words = ['暮二', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "brief": "👉 学习 Maverick"
     }
 ]
 nav = [
