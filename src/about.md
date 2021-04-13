@@ -17,4 +17,4 @@ tags:
 
 ## Contact
 
-Email: yaheng233#@gmail.com (replace # with @)
+Email: yaheng233@gmail.com
